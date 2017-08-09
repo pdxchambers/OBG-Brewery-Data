@@ -1,0 +1,5 @@
+/*styles for OBG Brewery Data plugin*/
+/* line 2, ../scss/obg_styles.scss */
+input[name="query"] {
+  width: 50%;
+}
